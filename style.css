@@ -70,7 +70,19 @@ body {
   }
   
   #image-container {
-    background-color: #ccc;
-    padding: 60px;
+    background-color: #cecccc;
+    padding: 100px;
     text-align: center;
+  }
+
+  .information {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+  }
+
+  .section h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
   }
