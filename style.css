@@ -123,8 +123,46 @@ header {
   color: #1f2937;
 }
 
-.quote h3 {
+.quote h2 {
   font-size: 36px;
   font-weight: 100;
   color: #1f2937;
+}
+
+.cta {
+  background-color: #3882F6;
+  color: #fff;
+  text-align:center;
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items : center;
+  text-align: start;
+
+}
+
+.cta h2 {
+  font-size: 36px;
+  margin-bottom: 6px;
+}
+
+.cta p {
+  font-size: 20px;
+}
+
+#signup-button-cta {
+  background-color: #3882F6;
+  color: #ffffff;
+  padding: 15px 20px;
+  border: rgb(255, 255, 255) 2px solid;
+  cursor: pointer;
+  text-align: right;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1F2937;
+  color: #F9FAF8;
 }
