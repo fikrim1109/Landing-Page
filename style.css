@@ -153,11 +153,12 @@ header {
 #signup-button-cta {
   background-color: #3882F6;
   color: #ffffff;
-  padding: 15px 20px;
+  padding: 10px 20px;
   border: rgb(255, 255, 255) 2px solid;
   cursor: pointer;
   text-align: right;
   font-size: 16px;
+  border-radius: 8px;
   
 }
 
