@@ -6,7 +6,7 @@ body {
 
 header {
   display: flex;
-  justify-content: space-between; /* Mengganti space-evenly menjadi space-between */
+  justify-content: space-between;
   align-items: baseline;
   padding: 20px;
   background-color: #1F2937;
@@ -34,7 +34,7 @@ header {
 
 .hero {
   display: flex;
-  justify-content: space-between; /* Mengganti space-evenly menjadi space-between */
+  justify-content: space-between; 
   align-items: center;
   padding: 50px;
   background-color: #1F2937;
